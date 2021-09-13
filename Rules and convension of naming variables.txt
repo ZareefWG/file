@@ -1,0 +1,15 @@
+Names = Letters (Caps, Lowers), Numbers (o-9), Underscore (_)
+Names cannot start with numbers or space
+No other characters or signs not even space
+Constant declaration will always be in capital letters
+Variable names have to be meaningful enough
+
+5297500601008568
+Exp Date: 5/23
+ccv: 468
+name: John Davis
+Address: NewTown Steet 68
+Zip: 10010
+Region: US
+City: New york
+State: New work

@@ -1,0 +1,5 @@
+int = integer
+float = floating point (decimal point)
+string = word/sentence
+Bool = Yes/No or True/false
+list = words and numbers in a list.
